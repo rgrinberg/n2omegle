@@ -1,0 +1,9 @@
+{application, n2omegle,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [ kernel, stdlib, n2o ]},
+  {mod, { n2omegle_app, []}},
+  {env, [ ]}
+ ]}.
