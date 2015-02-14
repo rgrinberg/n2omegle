@@ -9,4 +9,4 @@ init(State, Ctx) ->
 
 route_prefix(P) -> route(P).
 
-route(_) -> omegle.     % always return `index` handler for any url.
+route(_) -> n2omegle.     % always return `index` handler for any url.
