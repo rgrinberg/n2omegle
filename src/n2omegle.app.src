@@ -1,6 +1,6 @@
 {application, n2omegle,
  [
-  {description, ""},
+  {description, "minimal omegle clone in n2o"},
   {vsn, "1"},
   {registered, []},
   {applications, [ kernel, stdlib, n2o ]},
