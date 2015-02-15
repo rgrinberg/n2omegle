@@ -3,4 +3,4 @@ deps/
 .rebar/
 ebin/
 *.dump
-
+.applist
